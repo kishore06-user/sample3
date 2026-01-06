@@ -1,4 +1,10 @@
 .bg{
-    background-color: aqua;
-    border-radius: 20%;
+    background-color:aqua;
+    border-radius: 5%;
+}
+.by{
+    background-color: yellow;
+}
+.bi{
+    text-color:red;
 }
